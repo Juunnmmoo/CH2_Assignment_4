@@ -1,12 +1,136 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70DCE0A8-C5EF-418D-8406-B60282A74700}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\BorrowManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70DCE0A8-C5EF-418D-8406-B60282A74700}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\BorrowManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DCE0A8-C5EF-418D-8406-B60282A74700}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\BookManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70DCE0A8-C5EF-418D-8406-B60282A74700}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\BookManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DCE0A8-C5EF-418D-8406-B60282A74700}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70DCE0A8-C5EF-418D-8406-B60282A74700}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DCE0A8-C5EF-418D-8406-B60282A74700}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70DCE0A8-C5EF-418D-8406-B60282A74700}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\type_traits||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.CppBuild.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ViewState": "AgIAAAMCAAAAAAAAAAD4vxICAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-03T06:00:32.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAMwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T06:00:26.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "type_traits",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\type_traits",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\type_traits",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\type_traits",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\type_traits",
+              "ViewState": "AgIAAOQIAAAAAAAAAAAmwPYIAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:21.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowManager.h",
+              "DocumentMoniker": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\BorrowManager.h",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\BorrowManager.h",
+              "ToolTip": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\BorrowManager.h",
+              "RelativeToolTip": "CH2_Assignment_4\\BorrowManager.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T04:55:04.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookManager.h",
+              "DocumentMoniker": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\BookManager.h",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\BookManager.h",
+              "ToolTip": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\BookManager.h",
+              "RelativeToolTip": "CH2_Assignment_4\\BookManager.h",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAwI0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T04:54:53.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.h",
+              "DocumentMoniker": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\Book.h",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\Book.h",
+              "ToolTip": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\Book.h",
+              "RelativeToolTip": "CH2_Assignment_4\\Book.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T04:54:44.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\main.cpp",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\main.cpp",
+              "ToolTip": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_4\\CH2_Assignment_4\\main.cpp",
+              "RelativeToolTip": "CH2_Assignment_4\\main.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T04:27:26.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
